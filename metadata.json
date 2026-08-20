@@ -1,0 +1,6 @@
+{
+  "name": "SolarConnect",
+  "description": "AI-powered solar subsidy assistance and blockchain transparency platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
